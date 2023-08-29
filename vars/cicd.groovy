@@ -1,4 +1,4 @@
-def newGit(repo)     #here repo is the parameter that we pass to function
+def newGit(repo)   
 {
   git "https://github.com/SuprabathKristam/${repo}.git"
 }
